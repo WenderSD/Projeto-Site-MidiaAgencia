@@ -8,9 +8,9 @@ Para a criação do template, foram utilizadas diversas propriedades e funcional
 
 Como por exemplo, a característica responsiva do projeto, que permite que ele seja bem utilizado em qualquer proporção de tela (notebook, celular, tablet e etc.). Além disso, seu visual não é somente estático, mas também reage à interação do usuário, o que possibilita maior compreensão de suas ações durante a navegação pelo template.
 
-<img src="img/img-midia-agencia-1.png">
+![Primeira parte do site](img/img-midia-agencia-1.PNG)
 
-<img src="img/img-midia-agencia-2.png">
+![Segunda parte do site](img/img-midia-agencia-2.png)
 
 ## Como acessar
 
