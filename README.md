@@ -8,11 +8,15 @@ Para a criação do template, foram utilizadas diversas propriedades e funcional
 
 Como por exemplo, a característica responsiva do projeto, que permite que ele seja bem utilizado em qualquer proporção de tela (notebook, celular, tablet e etc.). Além disso, seu visual não é somente estático, mas também reage à interação do usuário, o que possibilita maior compreensão de suas ações durante a navegação pelo template.
 
-![Primeira parte do site](img/img-midia-agencia-1.PNG)
-
-![Segunda parte do site](img/img-midia-agencia-2.png)
-
 ## Como acessar
 
 Para acessar o site clique no link abaixo:
 <a href = "https://wendersd.github.io/Projeto-Site-MidiaAgencia/">Mídia Agência</a>
+
+## Imagens do site
+
+![Primeira parte do site](img/img-midia-agencia-1.PNG)
+
+![Segunda parte do site](img/img-midia-agencia-2.PNG)
+
+![Site no celular](img/midia-agencia-celular.jpg)
