@@ -19,5 +19,4 @@ Para acessar o site clique no link abaixo:
 
 ![Segunda parte do site](img/img-midia-agencia-2.PNG)
 
-![Site no celular](img/midia-agencia-celular.jpg)
-<img src="img/midia-agencia-celular.jpg" height="200">
+<img src="img/midia-agencia-celular.jpg" height="700">
